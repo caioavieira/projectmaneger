@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    background-color: #dddddd;
+}
+
+h3 {
+    color: #23606b;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+input[type="submit"] {
+    background-color: #eeff00;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none;
+}
+
+.row {
+    padding-top: 30px;
+}
+
+.vr {
+    border-left: 1px solid #dddddd; 
+}
+
+.container {
+    background-color: #ffffff;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+}
